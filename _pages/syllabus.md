@@ -66,11 +66,11 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ### Unions in the Pre-Wagner Era
 
-- [Rex v. Journeymen-Taylors of Cambridge](materials\pre_wagner\Rex v Journeymen Taylors of Cambridge.pdf), 88 Eng.Rep. 9 (1721)
-- [Commonwealth v. Pullis](materials\pre_wagner\Commonwealth v Pullis.pdf) (1806), reprinted in Commons, et al, 3 A Documentary History of American Industrial Society 59 (2d ed. 1910)
-- [Commonwealth v. Hunt](materials\pre_wagner\Commonwealth v Hunt.pdf), 45 Mass. 111 (1842)
-- [Vegelahn v. Guntner](materials\pre_wagner\Vegelahn v Guntner.pdf), 167 Mass. 92 (1896)
-- [In re Debs](materials\pre_wagner\In re Debs.pdf), 158 U.S. 564 (1895)
+- [Rex v. Journeymen-Taylors of Cambridge]({{ site.baseurl }}/assets/pdf/materials/pre_wagner\Rex v Journeymen Taylors of Cambridge.pdf), 88 Eng.Rep. 9 (1721)
+- [Commonwealth v. Pullis]({{ site.baseurl }}/assets/pdf/materials/pre_wagner\Commonwealth v Pullis.pdf) (1806), reprinted in Commons, et al, 3 A Documentary History of American Industrial Society 59 (2d ed. 1910)
+- [Commonwealth v. Hunt]({{ site.baseurl }}/assets/pdf/materials/pre_wagner\Commonwealth v Hunt.pdf), 45 Mass. 111 (1842)
+- [Vegelahn v. Guntner]({{ site.baseurl }}/assets/pdf/materials/pre_wagner\Vegelahn v Guntner.pdf), 167 Mass. 92 (1896)
+- [In re Debs]({{ site.baseurl }}/assets/pdf/materials/pre_wagner\In re Debs.pdf), 158 U.S. 564 (1895)
 
 ### Ushering in the Wagner Era
 
@@ -81,7 +81,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - Theodore Draper, [Gastonia Revisited](http://www.jstor.org/stable/40970046), 38 Social Research 3 (1971)
 - [Norris-LaGuardia Act](http://www.law.cornell.edu/uscode/text/29/chapter-6), 29 U.S.C. §§ 101-115 (1932)
 - [National Labor Relations Act](http://www.law.cornell.edu/uscode/text/29/chapter-7/subchapter-II), 29 U.S.C. §§ 151-169 (1935)
-- [Wagner Act Summary Chart](materials\Labor Law summary chart.png)
+- [Wagner Act Summary Chart]({{ site.baseurl }}/assets/pdf/materials/Labor Law summary chart.png)
 
 ## Coverage of the NLRA
 
@@ -166,23 +166,23 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Union Democracy
 
 - [Labor-Management Reporting & Disclosure Act](http://www.law.cornell.edu/uscode/text/29/chapter-11) (“Landrum-Griffin Act”), 29 U.S.C. §§ 401-402, 411-415, 481-483
-- [Sickman v. Communications Workers of America Local 13000](materials\landrum_griffen\Sickman v Local 13000.pdf), 1999 WL 1045145 (E.D. Pa. 1999)
+- [Sickman v. Communications Workers of America Local 13000]({{ site.baseurl }}/assets/pdf/materials/landrum_griffen\Sickman v Local 13000.pdf), 1999 WL 1045145 (E.D. Pa. 1999)
 - Herman Benson, [Landrum-Griffin Act  at 50: Has it Been Good or Bad for Unions?](http://newpol.org/content/landrum-griffin-act-50-has-it-been-good-or-bad-unions), 13(2) New Politics (2011)
 
 ### Union Corruption
 
 - [Labor-Management Reporting & Disclosure Act](http://www.law.cornell.edu/uscode/text/29/chapter-11) (“Landrum-Griffin Act”), 29 U.S.C. §§ 431-441, 461-466, 501-504
-- [U.S. v. Local 560 International Brotherhood of Teamsters](materials\landrum_griffen\Local 560 IBT.PDF), 581 F. Supp. 279 (D.N.J. 1984)
+- [U.S. v. Local 560 International Brotherhood of Teamsters]({{ site.baseurl }}/assets/pdf/materials/landrum_griffen\Local 560 IBT.PDF), 581 F. Supp. 279 (D.N.J. 1984)
 - David Witwer, [The Racketeer Menace & Antiunionism in the Mid-Twentieth Century U.S.](http://www.jstor.org/stable/27673127), 74 International Labor & Working Class History 124 (2008)
 - James B. Jacobs & Ellen Peters, [Labor Racketeering: The Mafia and the Unions](http://www.jstor.org/stable/1147700), 30 Crime & Justice 229 (2003)
 
 ## Labor Unions in the Public Sector
 
-- [King v. Priest](materials\public_sector\King v Priest.pdf), 206 S.W.2d 547 (Mo. 1947)
+- [King v. Priest]({{ site.baseurl }}/assets/pdf/materials/public_sector\King v Priest.pdf), 206 S.W.2d 547 (Mo. 1947)
 - Joseph E. Slater, [The Court Does Not Know “What a Labor Union Is”: How State Structures and  Judicial (Mis)constructions Deformed Public Sector Labor Law](http://heinonline.org/HOL/Page?handle=hein.journals/orglr79&id=993&collection=journals&index=journals/orglr ), 79 Oregon Law Review 981 (2000)
 - [North Carolina General Statutes, Chap. 95, Art. 12](http://www.ncleg.net/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_95/Article_12.html): Collective Bargaining & Strikes by Public Employees
-- [Atkins v. City of Charlotte](materials\public_sector\Atkins v City of Charlotte.pdf), 296 F. Supp. 1068 (W.D.N.C. 1968)
-- [Winston-Salem/Forsythe County Unit of the North Carolina Ass’n of Educators v. Phillips](materials\public_sector\Winston-Salem Forsyth County Unit v Phillips.pdf), 381 F. Supp. 644 (M.D.N.C. 1974) 
+- [Atkins v. City of Charlotte]({{ site.baseurl }}/assets/pdf/materials/public_sector\Atkins v City of Charlotte.pdf), 296 F. Supp. 1068 (W.D.N.C. 1968)
+- [Winston-Salem/Forsythe County Unit of the North Carolina Ass’n of Educators v. Phillips]({{ site.baseurl }}/assets/pdf/materials/public_sector\Winston-Salem Forsyth County Unit v Phillips.pdf), 381 F. Supp. 644 (M.D.N.C. 1974) 
 - Ann C. Hodges & William Warwick, [The Sheathed Sword: Public-Sector Union Efficacy in Non-Bargaining States](LINK), 27 ABA Journal of Labor & Employment Law 275 (2012)
 - Martin H. Malin, [The Legislative Upheaval in Public-Sector Law Law: A Search for Common Elements](LINK), 27 ABA Journal of Labor & Employment Law 149 (2012)
 
