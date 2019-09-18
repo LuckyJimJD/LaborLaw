@@ -7,44 +7,44 @@ title: Links
 
 ## Statutes
 
-- [National Labor Relations Act](http://www.law.cornell.edu/uscode/text/29/chapter-7/subchapter-II)
+- [National Labor Relations Act](https://www.law.cornell.edu/uscode/text/29/chapter-7/subchapter-II)
 
-- [Labor-Management Reporting & Disclosure Act](http://www.law.cornell.edu/uscode/text/29/chapter-11)
+- [Labor-Management Reporting & Disclosure Act](https://www.law.cornell.edu/uscode/text/29/chapter-11)
 
-- [Norris-LaGuardia Act](http://www.law.cornell.edu/uscode/text/29/chapter-6)
+- [Norris-LaGuardia Act](https://www.law.cornell.edu/uscode/text/29/chapter-6)
 
 
 ## Government Agencies 
 
-- [National Labor Relations Board](http://www.nlrb.gov)
+- [National Labor Relations Board](https://www.nlrb.gov/)
 
-- [U.S. Department of Labor](http://www.dol.gov)
+- [U.S. Department of Labor](https://www.dol.gov/)
 
 ## Labor Organizations 
 
-- [AFL-CIO](http://afl-cio.org)
+- [AFL-CIO](https://aflcio.org)
 
 - [North Carolina AFL-CIO](http://aflcionc.org)
 
-- [AFL-CIO Lawyers Coordinating Committee](http://unionlawyers.aflcio.org/)
+- [AFL-CIO Lawyers Coordinating Committee](https://lcc-aflcio.org/)
 
-- [Change to Win Labor Federation](http://www.changetowin.org)
+- [Change to Win Labor Federation](http://www.changetowin.org/)
 
-- [Industrial Workers of the World](http://www.iww.org)
+- [Industrial Workers of the World](https://www.iww.org/)
 
-- [Association for Union Democracy](http://www.uniondemocracy.org)
+- [Association for Union Democracy](https://uniondemocracy.org/)
 
-- [Jobs With Justice](http://www.jwj.org)
+- [Jobs With Justice](https://www.jwj.org)
 
 - [Coalition of Labor Union Women](http://www.cluw.org)
 
-- [Coalition of Black Trade Unionists](http://www.cbtu.org)
+- [Coalition of Black Trade Unionists](https://www.cbtu.org)
 
 - [Black Workers for Justice](http://blackworkersforjustice.org)
 
 - [Jewish Labor Committee](http://www.jewishlabor.org)
 
-- [International Labor Organization](http://www.ilo.org/global/lang--en/index.htm)
+- [International Labor Organization](https://www.ilo.org/global/lang--en/index.htm)
 
 ## Labor News 
 
@@ -58,6 +58,6 @@ title: Links
 
 - [Payday Report](http://paydayreport.com/)
 
-- [Working In These Times](http://inthesetimes.com/working)
+- [Working In These Times](https://inthesetimes.com/working)
 
 - [Labor Notes](https://labornotes.org)
