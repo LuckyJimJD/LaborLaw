@@ -9,14 +9,14 @@ phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
 course: Labor Law
-term: Winter Term 2020
+term: Winter 2020
 # days: Monday & Wednesday, 3:45-5:15 pm
 # room: Room 105
 
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: syllabus2.latex
+    template: syllabus.latex
   
 ---
 
@@ -68,7 +68,7 @@ The Law School [honor code](www.elon.edu/e/law/student-experience/honor-code.htm
 
 ## Origins of the Modern U.S. Labor Law Regime
 
-### Unions in the Pre-Wagner Era
+Casebook, Chapter 1
 
 [Rex v. Journeymen-Taylors of Cambridge](../assets/pdf/pre_wagner/Rex_JourneymenTaylors.pdf), 88 Eng.Rep. 9 (1721)
 
@@ -79,10 +79,6 @@ The Law School [honor code](www.elon.edu/e/law/student-experience/honor-code.htm
 [Vegelahn v. Guntner](../assets/pdf/pre_wagner/Vegelahn_Guntner.pdf), 167 Mass. 92 (1896)
 
 [In re Debs](scholar.google.com/scholar_case?case=4163469060612193925), 158 U.S. 564 (1895)
-
-### Ushering in the Wagner Era
-
-Casebook: 1-34
 
 [Clayton Antitrust Act, § 6](www.law.cornell.edu/uscode/text/15/17) (15 U.S.C. § 17) (1914)
 
@@ -98,74 +94,57 @@ Theodore Draper, [Gastonia Revisited](www.jstor.org/stable/40970046), 38 Social 
 
 ## Coverage of the NLRA
 
-### Employers under the NLRA
-
-Casebook: 34-37
+Casebook, Chapter 2
 
 George Gonos, [The Contest Over “Employer” Status in the Postwar United States: The Case of Temporary Help Firms](www.jstor.org/stable/3054095), 31 Law & Society Review 81 (1997)
 
-### Employees under the NLRA
-
-Casebook: 37-97
-
 Julia Tomassetti, [Who Is a Worker? Partisanship, the National Labor Relations Board, and the Social Content of Employment](www.jstor.org/stable/23357592), 37 Law & Social Inquiry 815 (2012)
 
-Katherine V.W. Stone, [Legal Protections for Atypical Employees: Employment Law for Workers without Workplaces and Employees without Employers](heinonline.org/HOL/Page?handle=hein.journals/berkjemp27&id=257&collection=journals&index=journals/berkjemp), 27 Berkeley Journal of Employment & Labor Law 251 (2006)
+Katherine V.W. Stone, [Legal Protections for Atypical Employees: Employment Law for Workers without Workplaces and Employees without Employers](bit.ly/2mKshj8), 27 Berkeley Journal of Employment & Labor Law 251 (2006)
 
-## Employee Rights Under the NLRA
+## Employee Protections
 
-### Employer Interference
+### Protected Concerted Activity 
 
-Casebook: 99-157
+Casebook, Chapter 3
 
-### Protected Concerted Activity
+### Employer Domination & Discrimination 
 
+Casebook, Chapter 4
 
-Casebook: 159-203
+Kate Bronfenbrenner, [Hard Bargaining](https://www.jstor.org/stable/25149437), 52 Labour/Le Travail 361 (2003) 
 
 ## Union Organizing
 
-### Union Communication with Employees
+### Communicating with Employees
 
-Casebook: 205-48
+Casebook: Chapter 5
 
 Andrew W. Martin, [Resources for Success: Social Movement, Strategic Resource Allocation, and Union Organizing Outcomes](www.jstor.org/stable/10.1525/sp.2008.55.4.501), 55 Social Problems 501 (2008)
 
-### Employer Communication with Employees
+### Establishing & Ending Union Representation 
 
-Casebook: 248-88
+Casebook, Chapter 6
 
-Kate Bronfenbrenner, [No Holds Barred: The Intensification of Employer Opposition to Organizing](LINK) (EPI Briefing Paper No. 235, 2009)
+## Collective Bargaining 
 
-### Establishing Representation
+### Exclusive Representation & The Duty to Bargain 
 
-Casebook: 289-318
+Casebook, Chapter 7
 
-### Withdrawal of Recognition
+### Subjects of Collective Bargaining
 
-Casebook: 318-33
+Casebook, Chapter 8
 
-## Collective Bargaining
+### Enforcement of Collective Bargaining Agreements
 
-### Duty to Bargain
+Casebook, Chapter 13 
 
-Casebook: 335-86
-
-### Subjects of Bargaining
-
-Casebook: 387-435
-
-Judith Stepan-Norris & Maurice Zeitlin, [“Red” Unions and “Bourgeois” Contracts?](www.jstor.org/stable/2781339), 96 American Journal of Sociology 1151 (1991)
-
-### Enforcing of Collective Bargaining Agreements 
-
-Contractual Grievance 
-
-## Labor Disputes
+## Labor Disputes 
 
 ### Strikes & Lockouts
 
-Casebook: 437-75
+Casebook, Chapter 9
 
 Jim Pope,[Worker Lawmaking, Sit-Down Strikes, and the Shaping of American Industrial Relations](www.jstor.org/stable/27641352), 24 Law and History Review 45 (2006)
 
@@ -175,33 +154,25 @@ Ahmed A. White, [The Crime of Staging an Effective Strike and the Enduring Role 
 
 ### Picketing, Boycotts, & Corporate Campaigns
 
-Casebook: 477-527
+Casebook, Chapter 10
 
 Timothy J. Minchin, [“Don’t Sleep With Stevens!”: The J.P. Stevens Boycott and Social Activism in the 1970s](www.jstor.org/stable/27557695), 39 Journal of American Studies 511 (2005)
 
 ## Internal Union Affairs
 
-### Duty of Fair Representation
+### Unions Duties to Members & Non-Members 
 
-Casebook: 557-72
-
-### Union Membership
-
-Casebook: 573-625
+Casebook, Chapter 12 
 
 Marc Dixon, [Union Threat, Countermovement Organization, and Labor Policy in the States, 1944–1960](www.jstor.org/stable/10.1525/sp.2010.57.2.157 ), 57 Social Problems 157 (2010)
 
-### Union Democracy
+### Union Democracy & Corruption 
 
-[Labor-Management Reporting & Disclosure Act](www.law.cornell.edu/uscode/text/29/chapter-11), 29 U.S.C. §§ 401-402, 411-415, 481-483
+[Labor-Management Reporting & Disclosure Act](www.law.cornell.edu/uscode/text/29/chapter-11)
 
 [Sickman v. Communications Workers of America Local 13000](../assets/pdf/landrum_griffin/Sickman_Local13000.pdf), 1999 WL 1045145 (E.D. Pa. 1999)
 
 Herman Benson, [Landrum-Griffin Act  at 50: Has it Been Good or Bad for Unions?](newpol.org/content/landrum-griffin-act-50-has-it-been-good-or-bad-unions), 13(2) New Politics (2011)
-
-### Union Corruption
-
-[Labor-Management Reporting & Disclosure Act](www.law.cornell.edu/uscode/text/29/chapter-11), 29 U.S.C. §§ 431-441, 461-466, 501-504
 
 [U.S. v. Local 560 International Brotherhood of Teamsters](scholar.google.com/scholar_case?case=5422529839210398444), 581 F. Supp. 279 (D.N.J. 1984)
 
@@ -209,7 +180,10 @@ David Witwer, [The Racketeer Menace & Antiunionism in the Mid-Twentieth Century 
 
 James B. Jacobs & Ellen Peters, [Labor Racketeering: The Mafia and the Unions](www.jstor.org/stable/1147700), 30 Crime & Justice 229 (2003)
 
-## Labor Unions in the Public Sector
+
+## Labor Outside the NLRA 
+
+### Unions in the Public Sector
 
 [King v. Priest](../assets/pdf/public_sector/King_Priest.pdf), 206 S.W.2d 547 (Mo. 1947)
 
@@ -223,9 +197,18 @@ Joseph E. Slater, [The Court Does Not Know “What a Labor Union Is”: How Stat
 
 Ann C. Hodges & William Warwick, [The Sheathed Sword: Public-Sector Union Efficacy in Non-Bargaining States](LINK), 27 ABA Journal of Labor & Employment Law 275 (2012)
 
-Martin H. Malin, [The Legislative Upheaval in Public-Sector Law Law: A Search for Common Elements](LINK), 27 ABA Journal of Labor & Employment Law 149 (2012)
+Martin H. Malin, [The Legislative Upheaval in Public-Sector Labor Law: A Search for Common Elements](LINK), 27 ABA Journal of Labor & Employment Law 149 (2012)
 
-## Labor, Race, Gender, & Immigration
+### Labor in the Shadow of the Law 
+
+Daniel Gross & Staughton Lynd, [Solidarity Unionism at Starbucks](LINK) (PM Press Pamphlet Series No. 9,  2011)
+
+Sameer M. Ashar & Catherine L. Fisk, [Democratic Norms and Governance Experimentalism in Worker Centers](http://bit.ly/2nwgJ3j), 82 Law & Contemporary Problems 141 (2019)
+
+David Bacon, [A Union for Tobacco Workers](onlinelibrary.wiley.com/doi/10.1111/j.1743-4580.2012.00401.x/abstract), 15 Working USA 417 (2012)
+
+
+## Not Just the "White (Male) Working Class": Race, Gender, Immigration & the Labor Movement 
 
 Larry J. Griffin & Robert R. Korstad, [Class as Race & Gender; Making & Breaking a Labor Union in the Jim Crow South](www.jstor.org/stable/1171474), 19 Social Science History 425(1995)
 
@@ -237,18 +220,12 @@ Jillian Crocker and Dan Clawson, [Buying Time: Gendered Patterns in Union Contra
 
 Brian Burgoon, et al, [Immigration and the Transformation of American Unionism](www.jstor.org/stable/40930956), 44 International Migration Review 933 (2010)
 
-David Bacon, [A Union for Tobacco Workers](onlinelibrary.wiley.com/doi/10.1111/j.1743-4580.2012.00401.x/abstract), 15 Working USA 417 (2012)
+## Future Directions in Labor Law 
 
-## The Demise of the Wagner Model and the Future of Unions
+Kate Andrias, [The New Labor Law](http://bit.ly/2n3EVd2), 126 Yale Law Journal 2 (2016)
 
 Bill Fletcher Jr., Kate Bronfenbrenner, & Donna Dewitt, [The Future of Organized Labor in the U.S.: Reinventing Trade Unionism for the 21st Century](monthlyreview.org/commentary/the-future-of-organized-labor-in-the-u-s), Monthly Review (Feb. 21, 2005) 
 
-Stanley Aronowitz, [Reversing the Labor Movement's Freefall](logosjournal.com/2013/aronowitz-spring), 12(2) Logos (Winter 2013)
-
 Moshe  Marvit & Leigh Ann Schriever, [With Traditional Unions on the Decline, Can Members-Only Unions Breathe Life Back Into Labor?](inthesetimes.com/working/entry/18530/members-only-unions-minority-labor-decline-), In These Times, (Oct. 21, 2015)
 
-Paul Secunda, [The Wagner Model of Labour Law is Dead, Long Live Labour Law!](heinonline.org/HOL/Page?handle=hein.journals/queen38&div=21&collection=journals&set_as_cursor=23&men_tab=srchresults), 38 Queen’s Law journal 545 (2013)
 
-Daniel Gross & Staughton Lynd, [Solidarity Unionism at Starbucks](LINK) (PM Press Pamphlet Series No. 9,  2011)
-
-Janice Fine, [Worker Centers](www.jstor.org/stable/41555141), 14 Race, Poverty & Environment 54 (2007)

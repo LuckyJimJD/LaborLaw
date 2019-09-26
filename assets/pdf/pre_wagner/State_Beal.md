@@ -2,7 +2,13 @@
 title: 'State v. Beall'
 subtitle: '199 N.C. 278 (1930)'
 
-geometry: top=1.5in,bottom=1.5in,left=2in,right=2in
+geometry: top=1in,bottom=1in,left=1in,right=1in
+
+fontsize: 10pt
+
+columns: 2
+
+justified: true
 
 output: 
   pdf_document:
