@@ -16,7 +16,7 @@ term: Winter 2020
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: syllabus.latex
+    template: syllabus.tex
   
 ---
 
