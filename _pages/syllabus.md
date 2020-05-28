@@ -9,9 +9,9 @@ phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
 course: Labor Law
-term: Winter 2020
-# days: Monday & Wednesday, 3:45-5:15 pm
-# room: Room 105
+term: Spring 2016
+days: Monday & Wednesday, 3:45-5:15 pm
+room: Room 105
 
 output: 
   pdf_document:

@@ -5,7 +5,7 @@ title: Links
 
 ---
 
-## Statutes
+# Statutes
 
 - [National Labor Relations Act](https://www.law.cornell.edu/uscode/text/29/chapter-7/subchapter-II)
 
@@ -14,13 +14,13 @@ title: Links
 - [Norris-LaGuardia Act](https://www.law.cornell.edu/uscode/text/29/chapter-6)
 
 
-## Government Agencies 
+# Government Agencies 
 
 - [National Labor Relations Board](https://www.nlrb.gov/)
 
 - [U.S. Department of Labor](https://www.dol.gov/)
 
-## Labor Organizations 
+# Labor Organizations 
 
 - [AFL-CIO](https://aflcio.org)
 
@@ -46,7 +46,7 @@ title: Links
 
 - [International Labor Organization](https://www.ilo.org/global/lang--en/index.htm)
 
-## Labor News 
+# Labor News 
 
 - [Workplace Prof Blog](https://lawprofessors.typepad.com/laborprof_blog/)
 
