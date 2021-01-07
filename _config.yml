@@ -16,7 +16,7 @@ email: efink@elon.edu
 phone: 336-279-9334
 
 footer_text: >
-  Created by <a href="https://github.com/LuckyJimJD" target="_blank">Eric M. Fink</a>. 
+  Created by <a href="https://github.com/EricMFink" target="_blank">Eric M. Fink</a>. 
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>. 
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 
   <br> 
@@ -28,7 +28,7 @@ footer_text: >
 
 # Build settings
 markdown: kramdown
-remote_theme: luckyjimjd/lj-folio
+remote_theme: EricMFink/lj-folio
 
 # Includes & excludes
 include: ['_pages']
